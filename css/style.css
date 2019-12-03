@@ -1,0 +1,138 @@
+header{
+    display: block;
+    background-image: url("../images/dog.jpg");
+    background-repeat: no-repeat;
+    min-height: 100vh;
+   }
+h1{
+    color:peachpuff;
+    font-size:40px;
+    margin-left: 100px;
+}
+ul li{
+    display:block;
+    float: right;   
+    width:120px;
+    text-align:center;
+    padding:10px;
+    border: none;
+    color:white;
+}
+a{
+    list-style-type: none;
+    text-decoration: none;
+    color: peachpuff;
+}
+a:hover, a:focus{
+    color: peachpuff;
+}
+.haut{
+    margin-left:100px;
+    font-size:20px;
+    color:white;
+    justify-content: left;
+    
+}
+.titreblanc{
+    font-size: 60px;
+    color:white;
+    margin-left:100px;
+}
+.friend{
+    color:black;
+    display: inline-block;
+    margin-top:100px;
+    margin-left:100px;
+    font-size:30px;
+    padding: 20px;
+    border:5px solid;
+    border-radius: 30px 30px 30px 30px;
+    border-color: peachpuff;
+    border-width:10px;
+    text-align: center;
+    position: relative;
+    background-color: peachpuff;
+}
+.house{
+    font-size: 60px;
+    text-align: center
+}
+.katrine{
+    float: left
+}
+.learnmore1{
+    border:2px solid;
+    border-radius: 30px 30px 30px 30px;
+    border-color: peachpuff;
+    border-width:10px;
+    text-align: center;
+    padding:20px;
+}
+.learnmore1:hover{
+    border-color: peachpuff;
+    background-color: peachpuff;
+}
+.centre{
+    justify-content: center;
+    flex-direction: flex;
+    padding: 30px;
+    display: flex;
+    flex-wrap: nowrap;
+    text-align: center;
+}
+.icons{
+    width: 50px;
+    height: 50px;
+    padding: 0 50px;
+}
+.donation{
+    font-size: 40px;
+}
+.dernier{
+    justify-content: center;
+    padding: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    text-align: left;
+}
+footer{
+    background-image: url(../images/dog5.jpg);
+    background-position: relative;
+    background-repeat: no-repeat;
+    height: 360px;
+}
+
+.gauche{
+    padding-left: 20px;
+    padding-top: 100px;
+    margin-top: 50px;
+    margin-left: 200px;
+    display:block;
+}
+
+.droite{
+    margin-left: 600px;
+    display:block;
+    margin-top:-155px;
+}
+#questions{
+color: white;
+font-size: 30px;
+;
+}
+
+#visit{
+    color: white;
+    font-size: 30px;
+}
+
+.iconpetit{
+        width: 30px;
+        height: 30px;
+}
+.texte{
+    color: peachpuff;
+    text-align: center;
+    text-decoration: none;
+}
