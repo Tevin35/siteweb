@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="css/reset.css">
+    <link rel="stylesheet" href="fonts/fontawesome/css/all.css">
+    <link href="css/style.css" rel="stylesheet" type="text/css">
+    <title>Tuto CV</title>
+</head>
+<body>
+    <!-- header -->
+    <header class>
+        <h1>Cozy House</h1>
+        <span class="haut">Shelter for pets in Boston</span>
+        <nav>
+        <ul>
+            <li><a href="#">Contacts</a></li>
+            <li><a href="#">To help the shelter</a></li>
+            <li><a href="#">Our pets</a></li>
+            <li><a href="#">About the shelter</a></li>
+        </ul>
+        </nav>
+        <br><br><br><br><br><br><br><br><br><br><h2 class="titreblanc">Not only people<br> need a house</h2> <br> <br> <br>  
+        <p class="haut">Lorem ipsum dolor sit amet consectetur adipisicing elit. <br>Impedit modi nostrum error iure minus quo velit eum, quae ea porro dignissimos sit debitis sint, <br> veniam omnis. Quaerat aliquid vero rem!</p>
+        <br><br><br><div class="friend">Make a friend</div>
+    </header>
+    <!-- corp du site -->
+    <main>
+            <section class="dernier">
+                    <img src="images/pets.jpg"></img>
+                    <article><h2 class="donation">About the shelter<br>"Cozy house"</h2>
+                        <br>
+                    <br>
+                    Lorem ipsum dolor, sit amet consectetur adipisicing elit. 
+                        <br>Repudiandae nisi officiis, illo quaerat, neque obcaecati facere <br> similique delectus beatae natus ipsa deleniti quidem! 
+                        <br>Excepturi, a dolor illo necessitatibus dignissimos animi.
+                    <br>
+                        <br>
+                        Lorem ipsum dolor, sit amet consectetur adipisicing elit. 
+                            <br>Repudiandae nisi officiis, illo quaerat, neque obcaecati facere <br> similique delectus beatae natus ipsa deleniti quidem! 
+                            <br>Excepturi, a dolor illo necessitatibus dignissimos animi.
+                        </article>
+            </section>
+                <h2 class="house">Our friends who <br> are looking for a house</h2>
+        <section class="centre">
+        <article>
+            <img src="images/cat.jpg" alt="Katrine le chat"><br>Katrine</img>
+            <br> <br> <br>  <br> <br>
+            <span class="learnmore1">Learn more</span>
+        </article>
+        <article>
+            
+        </article>
+        <article>
+            <img src="images/dog3.jpg" alt="Jennifer le chien"><br>Jennifer</img>
+            <br> <br> <br>  <br> <br>
+            <span class="learnmore1">Learn more</span>
+        </article>
+
+        <article>
+                <img src="images/dog2.jpg" alt="Woody le chien"><br>Woody</img>
+                <br> <br> <br>  <br> <br>
+                <span class="learnmore1">Learn more</span>
+        </article>
+        </section>
+        <section class="centre">
+        <span class="learnmore1">Get to know the rest</span>
+        </section>
+        <section class="centre">
+            <h2 class="house">Then you can help<br>our shelter</h2>
+        </section>
+
+        <section class="centre">
+            <article>
+                <img class="icons" src="images/icons/cat-food.svg"><br>Pet food</img>
+            </article>
+            <article>
+                <img class="icons" src="images/icons/ambulance.svg"><br>Transportation</img>
+            </article>
+            <article>
+                <img class="icons" src="images/icons/ball.svg"><br>Toys</img>
+            </article>
+            <article>
+                <img class="icons" src="images/icons/bowl.svg"><br>Bowls and cups</img>
+            </article>
+            <article>
+                <img class="icons" src="images/icons/shampoo.svg"><br>Shampoos</img>
+            </article>
+        </section>
+
+        <section class="centre">
+            <article>
+                <img class="icons" src="images/icons/pills.svg"><br>Vitamins</img>
+            </article>
+            <article>
+                <img class="icons" src="images/icons/syringe.svg"><br>Medecines</img>
+            </article>
+            <article>
+                <img class="icons" src="images/icons/leash.svg"><br>Collars / leashes</img>
+            </article>
+            <article>
+                <img class="icons" src="images/icons/clock.svg"><br>Sleeping area</img>
+            </article>
+        </section>
+
+        <section class="dernier">
+            <img src="images/dog4.jpg"></img>
+            <article><h2 class="donation">In addition, you <br> can make a donation</h2>
+                <br>
+            Form of the bank / Type of bank account
+            <br> <br>
+            <div class="learnmore1"><img class="iconpetit" src="images/icons/credit-card (1).svg"></img> 2880 8028 5791 7435</div>
+            <br>
+            Lorem ipsum dolor, sit amet consectetur adipisicing elit. 
+                <br>Repudiandae nisi officiis, illo quaerat, neque obcaecati facere <br> similique delectus beatae natus ipsa deleniti quidem! 
+                <br>Excepturi, a dolor illo necessitatibus dignissimos animi.</article>
+        </section>
+
+    <footer>
+        <article class="gauche">
+        <h2 id="questions">For questions <br> and suggestions</h2> 
+        <br><br>
+       <img class="iconpetit" src="images/icons/envelope.svg">  <span class="texte"><a href="mailto:email@shelter.com">email@shelter.com</a></span></img>
+       <br>
+       <img class="iconpetit" src="images/icons/telephone.svg">  <span class="texte"><a href="tel:+13 674 567 75 54">+13 674 567 75 54</a></span></img>
+    </article>
+        <article class="droite"><h2 id="visit">We are waiting <br> for your visit</h2> 
+            <br><br>
+            <img class="iconpetit" src="images/icons/pin.svg"><span class="texte"> Boston, Central Street, 1st <br> (entrance from the store)</span></img>
+            <br>
+            <img class="iconpetit" src="images/icons/pin.svg"><span class="texte">London, South Park, 18st</span></img>
+        </article>
+    </footer>
+    </main>
+
+    <meta name=”viewport” content=”width=device-width, initial-scale=1.0”>
+</body>
+</html>
